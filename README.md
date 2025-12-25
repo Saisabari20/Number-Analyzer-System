@@ -58,6 +58,6 @@ HOW TO RUN
 -----------------------------------------
 PROJECT OBJECTIVE
 -----------------------------------------
-To develop a beginner-friendly Python mini project that analyzes a given number 
-and displays various mathematical properties using modular programming.
------------------------------------------
+
+To develop a beginner-friendly Python mini project that analyzes a given number and displays various mathematical properties using modular programming.
+
