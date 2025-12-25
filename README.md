@@ -1,6 +1,5 @@
-=========================================
-        NUMBER ANALYZER SYSTEM
-=========================================
+
+# NUMBER ANALYZER SYSTEM
 
 A Python-based console application to analyze and classify a number based on 
 its mathematical properties.
